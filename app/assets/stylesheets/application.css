@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+.headerContainer {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 1rem;
+  align-items: center;
+  height: 100%;
+}
