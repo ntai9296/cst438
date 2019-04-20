@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cst438</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <!-- application.html.erb in Head tag below turbolinks -->
+    <%= javascript_pack_tag 'application' %>
+    <%= stylesheet_link_tag "https://cdnjs.cloudflare.com/ajax/libs/antd/3.16.3/antd.css" %>
+
+  </head>
+
+  <body>
+    <%= yield %>
+  </body>
+</html>
