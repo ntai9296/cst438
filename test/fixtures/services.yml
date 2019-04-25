@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 
+  serviceType: MyString
+  details: MyString
+  userId: MyString
+
+two:
+  date: 
+  serviceType: MyString
+  details: MyString
+  userId: MyString

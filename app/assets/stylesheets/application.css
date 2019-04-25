@@ -21,3 +21,30 @@
   align-items: center;
   height: 100%;
 }
+
+.text-center {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+.homeCallToActionDiv {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.homeCallToActionDiv a {
+  margin: 1rem;
+}
+
+.shopHeading {
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: 2rem;
+}
+
+.text-center {
+  text-align: center;
+}
